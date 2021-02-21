@@ -1,3 +1,13 @@
+// const pgp = require('pg-promise')()
+
+// const connection = 'postgres://JoHawtree@localhost:5432/project3_app'
+
+// const db = pgp(connection)
+
+// module.exports = db
+
+
+
 module.exports.users = [
     {
         'firstname': "James",
